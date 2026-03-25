@@ -9,7 +9,7 @@ Developed as part of the **Data Structures and Algorithms** course at **HCMUS**.
 
 * **Đỗ Đăng Tú**
 * **Đỗ Minh Khang**
-* **Nguyễn Phúc Nguyên**
+* **Huỳnh Phúc Nguyên**
 * **Huỳnh Đình Khương**
 
 ----------------------------------------------------------
